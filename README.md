@@ -31,6 +31,7 @@ Before starting the server `dev.env` file is needed in config directory. \
 Run the following commands:
 ```
 mkdir config
+cd config
 touch dev.env
 ```
 
