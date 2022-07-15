@@ -5,7 +5,7 @@ A task scheduling and note keeping app.\
 The API can be accessed at: https://git.heroku.com/misima-keeper-app.git \
 Front end for this app is still work in progress. The link will be update here once it's done.
 
-To use the app you can either send the documented requests to the deployed link or set the app locally as explained below:
+To use the app you can either send the documented requests to the deployed link or set up the app locally as explained below:
 
 
 ## Run Locally
@@ -13,7 +13,7 @@ To use the app you can either send the documented requests to the deployed link 
 First fork and then clone the project
 
 ```bash
-  git clone https://github.com/misima49/Keeper-App-API
+  git clone https://github.com/<your username>/Keeper-App-API
 ```
 
 Go to the project directory
