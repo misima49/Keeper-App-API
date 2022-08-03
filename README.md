@@ -2,7 +2,7 @@
 # Keeper App
 
 A task scheduling and note keeping app.\
-The API can be accessed at: https://git.heroku.com/misima-keeper-app.git \
+The API can be accessed at: https://misima-keeper-app.herokuapp.com \
 Front end for this app is still work in progress. The link will be update here once it's done.
 
 To use the app you can either send the documented requests to the deployed link or set up the app locally as explained below:
